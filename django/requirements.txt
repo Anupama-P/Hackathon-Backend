@@ -5,7 +5,7 @@
 wheel==0.29.0
 
 # Django LTS
-django==2.2.1
+django==2.2.24
 
 gunicorn==19.6.0
 
